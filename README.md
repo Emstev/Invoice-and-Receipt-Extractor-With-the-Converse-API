@@ -7,7 +7,7 @@
 ![Models](https://img.shields.io/badge/Models-Nova%20Lite%20%7C%20Nova%20Pro-blueviolet)
 ![Built with](https://img.shields.io/badge/Built%20with-Cloudboosta-purple)
 
-![Architecture](architecture.svg)
+![Architecture](architecture)
 
 ---
 
