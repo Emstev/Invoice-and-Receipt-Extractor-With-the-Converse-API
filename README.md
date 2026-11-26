@@ -185,6 +185,6 @@ ledgerline-invoice-extractor/
 ## 🎓 About
 
 Built as part of the **Cloudboosta Academy** AI on AWS course.
-**Emmanuel Ekwonu**: Cloud / DevOps / SRE engineer in training.
+**Emmanuel Ekwonu**: Cloud / DevOps / SRE engineer.
 
 `#LearningWithCloudboosta` `#AmazonBedrock` `#AWS` `#GenerativeAI`
