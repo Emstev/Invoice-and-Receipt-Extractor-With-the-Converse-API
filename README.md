@@ -122,6 +122,10 @@ python3 compare.py
 
 > 📌 Nova Pro costs about **13 times more per token** than Nova Lite, so it has to earn that price in accuracy.
 
+Recommendation: nova-lite-text. It is the cheapest model with at least 95% field accuracy and every document status as expected, so Nova Pro's roughly 13x higher price per token is not justified for this task.
+⚠️ One honest caveat: this was 10 documents, so say "on my test set" in the post, or add a line in the README's next steps about growing the test set.
+
+
 ### Step 6: Deploy the Ledgerline Invoice Reader page
 
 | Component | Config |
